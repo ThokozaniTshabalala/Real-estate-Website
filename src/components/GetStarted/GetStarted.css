@@ -1,3 +1,7 @@
+.g-wrapper{
+    background-color: white;
+}
+
 .inner-container{
     gap: 1.5rem;
     background: #4161df;
@@ -11,12 +15,14 @@
     color: white;
     font-weight: 600;
 }
+
 .inner-container .secondaryText{
-    color: rgba(255, 255, 255, 0.587);
+    color:rgba(255, 255, 255, 0.587);
 }
-.inner-container .button {
-    background: #5a73d7;
+
+.inner-container .button{
+    background: #4f6ada;
     border: 2px solid white;
     box-shadow: var(--shadow);
-    border-radius: 10px;
+    border-radius:10px;
 }
