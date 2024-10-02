@@ -21,7 +21,6 @@ This is a responsive real estate website built with **React JS** and **Yarn**. T
 - **Yarn**: A package manager used for dependency management.
 - **Netlify**: Used for continuous deployment and hosting the website.
 - **Styled Components**: For creating custom, reusable styles.
-- **Axios**: For handling API requests (if applicable).
 - **React Router**: For navigation between different pages and views.
 
 ## Installation
