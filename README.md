@@ -29,7 +29,7 @@ To run this project locally:
 
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/your-username/real-estate-website.git
+    git clone https://github.com/ThokozaniTshabalala/real-estate-website.git
     ```
 
 2. **Navigate to the project directory**:
